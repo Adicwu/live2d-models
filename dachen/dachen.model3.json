@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "dachen.moc3",
+		"Textures": [
+			"dachen.4096/texture_00.png"
+		],
+		"Physics": "dachen.physics3.json",
+		"DisplayInfo": "dachen.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

@@ -1,0 +1,323 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamA1",
+			"GroupId": "",
+			"Name": "失落"
+		},
+		{
+			"Id": "ParamA2",
+			"GroupId": "",
+			"Name": "帽子"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "_______________",
+			"GroupId": "",
+			"Name": "--------------"
+		},
+		{
+			"Id": "Paramerd1",
+			"GroupId": "ParamGroup",
+			"Name": "耳朵转面"
+		},
+		{
+			"Id": "Paramerd",
+			"GroupId": "ParamGroup",
+			"Name": "耳朵物理1"
+		},
+		{
+			"Id": "Paramerd2",
+			"GroupId": "ParamGroup",
+			"Name": "耳朵物理2"
+		},
+		{
+			"Id": "Paramerd3",
+			"GroupId": "ParamGroup",
+			"Name": "耳朵物理3"
+		},
+		{
+			"Id": "Paramerd4",
+			"GroupId": "ParamGroup",
+			"Name": "耳朵转面L"
+		},
+		{
+			"Id": "Paramerd5",
+			"GroupId": "ParamGroup",
+			"Name": "耳朵物理L"
+		},
+		{
+			"Id": "Paramerd6",
+			"GroupId": "ParamGroup",
+			"Name": "耳朵物理2L"
+		},
+		{
+			"Id": "Paramerd7",
+			"GroupId": "ParamGroup",
+			"Name": "耳朵物理3L"
+		},
+		{
+			"Id": "Paramwb1",
+			"GroupId": "ParamGroup2",
+			"Name": "尾巴转面"
+		},
+		{
+			"Id": "Param_Angle_Rotation10",
+			"GroupId": "ParamGroup2",
+			"Name": "[0]主体旋转2"
+		},
+		{
+			"Id": "Param_Angle_Rotation11",
+			"GroupId": "ParamGroup2",
+			"Name": "[1]主体旋转2"
+		},
+		{
+			"Id": "Param_Angle_Rotation12",
+			"GroupId": "ParamGroup2",
+			"Name": "[2]主体旋转2"
+		},
+		{
+			"Id": "Param_Angle_Rotation13",
+			"GroupId": "ParamGroup2",
+			"Name": "[3]主体旋转2"
+		},
+		{
+			"Id": "Param_Angle_Rotation14",
+			"GroupId": "ParamGroup2",
+			"Name": "[4]主体旋转2"
+		},
+		{
+			"Id": "ParamAR2",
+			"GroupId": "",
+			"Name": "失落2"
+		},
+		{
+			"Id": "ParamG1",
+			"GroupId": "",
+			"Name": "XYZG"
+		},
+		{
+			"Id": "ParamG2",
+			"GroupId": "",
+			"Name": "XYZG"
+		},
+		{
+			"Id": "ParamG3",
+			"GroupId": "",
+			"Name": "XYZG"
+		},
+		{
+			"Id": "ParamG4",
+			"GroupId": "",
+			"Name": "XYZG"
+		},
+		{
+			"Id": "Paramyj",
+			"GroupId": "",
+			"Name": "眼睛物理L1"
+		},
+		{
+			"Id": "Paramyj2",
+			"GroupId": "",
+			"Name": "眼睛物理L2"
+		},
+		{
+			"Id": "Paramyj3",
+			"GroupId": "",
+			"Name": "眼睛物理R1"
+		},
+		{
+			"Id": "Paramyj4",
+			"GroupId": "",
+			"Name": "眼睛物理R2"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "耳朵"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "尾巴"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "主体旋转2"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "帽子"
+		},
+		{
+			"Id": "Part4",
+			"Name": "新建组"
+		},
+		{
+			"Id": "Part7",
+			"Name": "嘴部"
+		},
+		{
+			"Id": "Part8",
+			"Name": "脸部"
+		},
+		{
+			"Id": "Part12",
+			"Name": "耳朵"
+		},
+		{
+			"Id": "Part15",
+			"Name": "前腿"
+		},
+		{
+			"Id": "Part18",
+			"Name": "腿部"
+		},
+		{
+			"Id": "Part21",
+			"Name": "身体"
+		},
+		{
+			"Id": "Part22",
+			"Name": "尾巴"
+		},
+		{
+			"Id": "Part2",
+			"Name": "徽章"
+		},
+		{
+			"Id": "Part3",
+			"Name": "帽子"
+		},
+		{
+			"Id": "Part5",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part6",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part9",
+			"Name": "脸毛"
+		},
+		{
+			"Id": "Part13",
+			"Name": "左耳"
+		},
+		{
+			"Id": "Part14",
+			"Name": "右耳"
+		},
+		{
+			"Id": "Part16",
+			"Name": "左前腿"
+		},
+		{
+			"Id": "Part17",
+			"Name": "右前腿"
+		},
+		{
+			"Id": "Part19",
+			"Name": "左腿"
+		},
+		{
+			"Id": "Part20",
+			"Name": "右腿"
+		},
+		{
+			"Id": "Part23",
+			"Name": "分叉"
+		},
+		{
+			"Id": "Part24",
+			"Name": "主体"
+		},
+		{
+			"Id": "Part10",
+			"Name": "大毛l"
+		},
+		{
+			"Id": "Part11",
+			"Name": "大毛r"
+		},
+		{
+			"Id": "ArtMesh79_Skinning",
+			"Name": "尾巴主体线(蒙皮)"
+		},
+		{
+			"Id": "ArtMesh80_Skinning",
+			"Name": "尾巴主阴影(蒙皮)"
+		},
+		{
+			"Id": "ArtMesh81_Skinning",
+			"Name": "尾巴主底色(蒙皮)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"Paramerd2",
+			"Paramerd3"
+		]
+	]
+}
